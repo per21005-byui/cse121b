@@ -1,0 +1,3 @@
+[submodule "cse121b-course"]
+	path = cse121b-course
+	url = https://github.com/byui-cse/cse121b-course
